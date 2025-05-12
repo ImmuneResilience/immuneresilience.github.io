@@ -10,6 +10,12 @@
 - name: This could be you!
   photo: neut.png
   info: Your great project description here
+- name: Henok Andualem
+  photo: henok.png
+  info: Henok's PhD is exploring the role of age and route on the beneficial effects of BCG on immune responses
+- name: Malena Ayala
+  photo: MalenaAyala.png
+  info: Malena joined the team as an NSERC-funded undergrad researcher to find links between systemic immunity and atopic disease in Canadian children enrolled in the CHILD study
 
 
 
